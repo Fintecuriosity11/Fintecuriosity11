@@ -29,7 +29,7 @@
 
 <div align=center>
 
-   [![Dacon Badge](https://img.shields.io/badge/-Dacon-blue?style=flat-square&logo=dacon&logoColor=white&link=https://dacon.io/myprofile/230684/competition/)](https://dacon.io/myprofile/230684/competition/)
+   [![Dacon Badge](https://img.shields.io/badge/-Dacon-blue?style=flat-square&logo=dacon&logoColor=white&link=https://dacon.io/myprofile/402027/home)](https://dacon.io/myprofile/402027/home)
 
 </div>
 
