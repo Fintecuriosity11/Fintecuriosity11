@@ -8,11 +8,11 @@
 
 # Jang YoungJun
 
-  ### Education : 
-   - Korea University
-   - University of Connecticut, Storrs
+  ### 🎓 Education : 
+   - Korea University (Industrial engineering) 🐯
+   - University of Connecticut, Storrs  (Finance) 🐺
 
-  ### Interests
+  ### ⚡ Interests
   - :microscope:  Anomaly Detection
   - :nut_and_bolt: :wrench: Prognostic & PHM
   - :speech_balloon:  XAI(eXplainable AI)
@@ -40,6 +40,8 @@
 
 </div>
 
+### 📫 Contact
+- <yjang1892@gmail.com>
 
 ## Tools & Languages
 <code><img title="Python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
