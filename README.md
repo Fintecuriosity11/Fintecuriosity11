@@ -8,7 +8,7 @@
 
 # Jang YoungJun
 
-- Education : 
+  ### Education : 
    - Korea University
    - University of Connecticut, Storrs
 
