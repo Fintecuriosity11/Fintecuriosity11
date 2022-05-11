@@ -1,16 +1,23 @@
+<div align=center>
+   
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Fintecuriosity11)](https://hits.seeyoufarm.com)
+
+</div>
+
 ### Hi there 👋
 
 # Jang YoungJun
 
-
-안녕하세요.
-
-- Name : 장영준
 - Education : 
    - Korea University
    - University of Connecticut, Storrs
 
-
+  ### Interests
+  - :microscope:  Anomaly Detection
+  - :nut_and_bolt: :wrench: Prognostic & PHM
+  - :speech_balloon:  XAI(eXplainable AI)
+  
+   
 <div align=center>
    
    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngjun-jang-b6613a116/)](https://www.linkedin.com/in/youngjun-jang-b6613a116/) 
