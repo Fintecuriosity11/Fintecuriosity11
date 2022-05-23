@@ -4,13 +4,15 @@
 
 </div>
 
-# Jang YoungJun
+  ### Research engineer
+  - Research Engineer in Manufacturing industry(Sensor, Vision)
+  
 
   ### 🎓 Education : 
    - Korea University (Industrial engineering) 🐯
    - University of Connecticut, Storrs  (Finance) 🐺
 
-  ### ⚡ Interests
+  ### ⚡ Research interests
   - :microscope:  Anomaly Detection
   - :nut_and_bolt: :wrench: Prognostic & PHM
   - :speech_balloon:  XAI(eXplainable AI)
