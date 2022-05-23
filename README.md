@@ -4,8 +4,6 @@
 
 </div>
 
-### Hi there 👋
-
 # Jang YoungJun
 
   ### 🎓 Education : 
